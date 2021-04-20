@@ -1,4 +1,4 @@
-baseURL = "http://example.org/"
+baseURL = "https://awaisbinadil.github.io/cao_task3/"
 languageCode = "en-us"
 title = "My New Hugo Site"
 theme = "ga-hugo-theme-master"
